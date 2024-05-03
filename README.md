@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shakeer</h1>
 <h3 align="center">Empowering Insights Through Data: Analytics, Visualization, and the Art of Data Science 📊💡</h3>
 
-< img align="right" alt="coding" width="400" src="![image](https://github.com/shakeer007/shakeer007/assets/153000879/0c98d4a6-5d9b-4211-8d0c-88c1e61fd14f)
+< img align="right" alt="coding" width="400" src="![image](https://github.com/shakeer007/shakeer007/assets/153000879/723a1886-f968-4b77-a150-e5c841846ff4)
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeer007&label=Profile%20views&color=0e75b6&style=flat" alt="shakeer007" /> </p>
