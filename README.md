@@ -53,7 +53,7 @@ Build impactful projects showcasing **real-world problem solving** and grow as a
 
 # 🌐 **Socials**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakeermd)  
-[![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/@Mohamma98485272)  
+[![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/@shakeer86173)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakeermohammad791@gmail.com)
 
 ---
